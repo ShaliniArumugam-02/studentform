@@ -1,4 +1,5 @@
 Student Registration Form 📝
+
 This project is a simple and clean student registration form built using HTML, Tailwind CSS, and JavaScript. It allows users to fill in basic student information like name, age, gender, course, and email. Once the form is submitted, the details are added to a table displayed below the form.
 
 The main purpose of this project is to practice working with forms, client-side validation, dynamic DOM manipulation, and responsive design using Tailwind CSS.
